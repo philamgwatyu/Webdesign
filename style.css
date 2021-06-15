@@ -1,0 +1,147 @@
+.had{
+    height: 2px;
+}
+.mage{
+    padding: 60px;
+    border-radius: 1000px;
+    width: 350px;
+    height: 350px;
+    text-align: center;
+}
+.hhh{
+    font-size: 2pc;
+    text-align: left;
+     color: rgb(16, 16, 17);
+     
+}
+.title{
+    display:inline;
+justify-content: center;
+}
+.circle{
+    color: blue;
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+}
+.Pic{
+    display: flex;
+    justify-content: center;
+    background-color:#ebe5e5 ;
+ 
+}
+.hello{
+    margin-bottom: 10px;
+    color: black;
+   margin-left: 5%;
+}
+.foot{
+    color: rgb(229, 229, 238);
+    display: flex;
+    width: 300px;
+    height: 50px;
+}
+.ppic{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+a{
+    text-decoration: none;
+}
+.text{
+    color: rgb(229, 229, 238);
+    margin-top: 65px;
+    text-indent: 20px;
+    display: flex;
+    margin-left: 500px;
+}
+
+
+.circle{
+    display: block;
+    background-color: #ed5871;
+    width:80px;
+    height: 80px;
+    border-radius: 50%;
+}
+.cir{
+    display: block;
+    background-color: #61cfd4;
+     width:80px;
+    height: 80px;
+    border-radius: 50%;
+}
+.phone{
+    margin-left: 20%;
+    display: block;
+    background-color: #61cfd4;
+    width:30px;
+    height: 30px;
+    border-radius: 50%;
+}
+.email{
+
+    margin-top: -10px;
+    display: block;
+    background-color: #61cfd4;
+    width:30px;
+    height: 30px;
+    border-radius: 50%;
+
+}
+.social{
+    display: block;
+    background-color: #61cfd4;
+    width:30px;
+    height: 30px;
+    border-radius: 50%;
+}
+.soc{
+    display: block;
+    background-color: #61cfd4;
+    width:30px;
+    height: 30px;
+    border-radius: 50%;
+}
+
+.ci{
+     
+    display: block;
+    background-color: #d1c826;
+    width:80px;
+    height: 80px;
+    border-radius: 50%;
+}
+.circle1{
+    display: block;
+    background-color: #ed5871;
+    width:10px;
+    height: 10px;
+    border-radius: 50%;
+}
+.cir1{
+    display: block;
+    background-color: #0adee6;
+    width:10px;
+    height: 10px;
+    border-radius: 50%;
+}
+i{
+    margin-top: 20%;
+     margin-left: 35%;
+    padding-right: 50px;
+    width: 20px;
+    height: 20px;
+  font-size: 20px;
+  color:white;
+}
+.btnH{
+    font-family: 'Concert One', cursive; 
+    border: none;
+    width: 100px;
+    height: 50px;
+    background-color: #0adee6;
+    border-radius: 30px;
+    color: rgb(15, 15, 15);
+}
